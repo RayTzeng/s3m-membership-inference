@@ -1,5 +1,5 @@
 # Introduction
-Official implementation of "Membership Inference Attacks Against Self-supervised Speech Models" [**arXiv**](https://arxiv.org/abs/2111.05113). 
+Official implementation of "Membership Inference Attacks Against Self-supervised Speech Models" [[**arXiv**](https://arxiv.org/abs/2111.05113)]. 
 
 In this work, we demonstrate that existing self-supervised speech model such as HuBERT, wav2vec 2.0, CPC and TERA are vulnerable to membership inference attack (MIA) and thus could reveal sensitive informations related to the training data.  
 # Requirements
